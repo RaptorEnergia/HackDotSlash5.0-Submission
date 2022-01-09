@@ -1,0 +1,5 @@
+### packages and libraries that have to be installed ###
+SpeechRecognition
+clipboard
+pyttsx3==2.71
+GitPython
