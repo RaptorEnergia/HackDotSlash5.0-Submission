@@ -13,7 +13,7 @@
   <img src="https://user-images.githubusercontent.com/61548445/149265861-8e48318c-fd54-4a10-b2ba-b14937f722fa.JPG"/>
 </p>
 <p align="left">
-  <img src="https://pngimage.net/wp-content/uploads/2018/05/assistance-png.png"/>
+  <img src="https://pngimage.net/wp-content/uploads/2018/05/assistance-png.png" width="400px"/>
 </p>
 ## Tech Stack
 
